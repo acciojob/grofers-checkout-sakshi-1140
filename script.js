@@ -21,9 +21,8 @@ const getSum = () => {
 	      `
 	   table.append(row)
 
-  
 };
 
 getSumBtn.addEventListener("click", getSum);
 
-       ==
+
